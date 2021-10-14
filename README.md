@@ -29,3 +29,5 @@ Spark(scala)
 Storm(java)
 
 Flink(java)
+
+Samza
