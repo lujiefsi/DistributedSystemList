@@ -1,4 +1,4 @@
-# DistributedSystemList
+# DistributedSystemList(open source)
 
 ## Virtual Distributed File System (VDFS)
 
@@ -9,8 +9,40 @@ Alluxio(java)
 Ceph(C++)
 
 ## Distributed File System
+also see https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
 
-HDFS
+HDFS(java)
+
+Glusterfs(c)
+
+IPFS(go)
+
+JuiceFS(go)
+
+Kertish-DFS(go)
+
+lizardfs(c++)
+
+Lustre(c)
+
+MinIO(go)
+
+MooseFS(c)
+
+OpenFS(c)
+
+Ori(c++)
+
+Quantcast File System(c++)
+
+RozoFS(c)
+
+SeaweedFS(go and java)
+
+Tahoe-LAFS(python)
+
+XtreemFS(java and c++)
+
 
 
 ## Distributed Message Quque
