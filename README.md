@@ -1,5 +1,13 @@
 # DistributedSystemList
 
+## Virtual Distributed File System (VDFS)
+
+Alluxio(java)
+
+## Distributed Object Soeage 
+
+Ceph(C++)
+
 ## Distributed File System
 
 HDFS
@@ -17,7 +25,7 @@ Kafka(java)
 
 RocketMQ(java)
 
-## Distributed Processing Frameworks
+## Distributed Batch Processing Frameworks
 
 Mapreduce(java)
 
