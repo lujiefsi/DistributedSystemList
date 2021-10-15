@@ -14,7 +14,9 @@ lakefs(go)
 
 MinIO(go)
 
-openIO(c and python)
+openIO(c and python
+
+LeoFS(Erlang)
 
 ## Distributed File System
 also see https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
