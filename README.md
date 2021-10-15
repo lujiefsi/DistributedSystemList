@@ -80,3 +80,17 @@ Storm(java)
 Flink(java)
 
 Samza(java)
+
+## Distributed Resouce Management Frameworks
+
+YARN(java)
+
+MESOS(c++)
+
+kubernetes(go)
+
+## Cloud Computing Plateform
+
+CloudStack(java)
+
+openstack(pythob)
