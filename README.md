@@ -12,6 +12,8 @@ ozone(java)
 
 lakefs(go)
 
+MinIO(go)
+
 openIO(c and python)
 
 ## Distributed File System
@@ -31,7 +33,6 @@ lizardfs(c++)
 
 Lustre(c)
 
-MinIO(go)
 
 MooseFS(c)
 
