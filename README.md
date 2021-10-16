@@ -95,7 +95,7 @@ CloudStack(java)
 
 openstack(pythob)
 
-## Distributed database
+## Distributed Database
 
 Apache Calcite(java)
 
@@ -103,9 +103,19 @@ HBAse(java)
 
 Cassandra(java)
 
+Aoache Phoenix(java)
+
+Apache Druid(java)
+
+Debezium(java, database change capture)
+
+eXist-db(java)
+
 ## Distributed SQL Engine
 
 Hive (java)
 
 Apache Drill(java)
+
+trino(java)
 
