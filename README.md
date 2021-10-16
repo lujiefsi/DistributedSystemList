@@ -111,6 +111,8 @@ Debezium(java, database change capture)
 
 eXist-db(java)
 
+Apache Geode (java)
+
 ## Distributed SQL Engine
 
 Hive (java)
