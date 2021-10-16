@@ -119,3 +119,11 @@ Apache Drill(java)
 
 trino(java)
 
+## Distributed ID Generate Service
+
+Leaf(java)
+
+
+sonyflake(go)
+
+Snowflake
