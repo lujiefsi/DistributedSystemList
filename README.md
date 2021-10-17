@@ -97,8 +97,6 @@ openstack(pythob)
 
 ## Distributed Database
 
-Apache Calcite(java)
-
 HBAse(java)
 
 Cassandra(java)
@@ -120,6 +118,9 @@ Redis(c)
 Apache Ignite(java)
 
 ## Distributed SQL Engine
+
+
+Apache Calcite(java)
 
 Hive (java)
 
