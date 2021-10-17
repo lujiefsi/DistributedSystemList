@@ -111,7 +111,13 @@ Debezium(java, database change capture)
 
 eXist-db(java)
 
+## Distributed in-memory Database
+
 Apache Geode (java)
+
+Redis(c)
+
+Apache Ignite(java)
 
 ## Distributed SQL Engine
 
