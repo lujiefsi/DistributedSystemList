@@ -136,3 +136,11 @@ Leaf(java)
 sonyflake(go)
 
 Snowflake
+
+## distributed coordination framework
+
+Zookeeper(java)
+
+Atomix (java)
+
+etcd(go)
