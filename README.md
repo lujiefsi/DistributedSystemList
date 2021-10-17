@@ -101,7 +101,7 @@ HBAse(java)
 
 Cassandra(java)
 
-Aoache Phoenix(java)
+Apache Phoenix(java)
 
 Apache Druid(java)
 
