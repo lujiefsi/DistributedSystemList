@@ -144,3 +144,7 @@ Zookeeper(java)
 Atomix (java)
 
 etcd(go)
+
+consul (go)
+
+Eureka(java)
