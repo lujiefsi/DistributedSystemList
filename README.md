@@ -66,6 +66,8 @@ Kafka(java)
 
 RocketMQ(java)
 
+Apache Pulsar
+
 ## Distributed Batch Processing Frameworks
 
 Mapreduce(java)
