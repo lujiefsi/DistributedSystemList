@@ -130,11 +130,11 @@ Apache Drill(java)
 
 trino(java)
 
-kylin
+kylin(java)
 
-Presto
+Presto(java)
 
-impala
+impala(c++)
 
 ## Distributed ID Generate Service
 
