@@ -132,6 +132,8 @@ trino(java)
 
 kylin
 
+Presto
+
 ## Distributed ID Generate Service
 
 Leaf(java)
