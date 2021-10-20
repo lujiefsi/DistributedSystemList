@@ -130,6 +130,8 @@ Apache Drill(java)
 
 trino(java)
 
+kylin
+
 ## Distributed ID Generate Service
 
 Leaf(java)
