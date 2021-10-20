@@ -134,6 +134,8 @@ kylin
 
 Presto
 
+impala
+
 ## Distributed ID Generate Service
 
 Leaf(java)
