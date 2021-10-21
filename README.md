@@ -136,6 +136,8 @@ Presto(java)
 
 impala(c++)
 
+pig (java)
+
 ## Distributed ID Generate Service
 
 Leaf(java)
