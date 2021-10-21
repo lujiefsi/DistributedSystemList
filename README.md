@@ -72,6 +72,8 @@ Apache Pulsar
 
 Mapreduce(java)
 
+apache gobblin
+
 Spark(scala)
 
 
