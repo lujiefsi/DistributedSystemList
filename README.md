@@ -166,4 +166,13 @@ Eureka(java)
 
 strimzi-kafka-operator
 
+sprak-on-k8s-operator
+
+etcd-operator
+
+prometheus-operator
+
+postgres-operator
+
+https://github.com/operator-framework/awesome-operators
 
