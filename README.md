@@ -160,3 +160,10 @@ etcd(go)
 consul (go)
 
 Eureka(java)
+
+## distributed Operator
+
+
+strimzi-kafka-operator
+
+
