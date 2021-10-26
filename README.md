@@ -121,6 +121,8 @@ Redis(c)
 
 Apache Ignite(java)
 
+Chronicle Map
+
 ## Distributed SQL Engine
 
 
