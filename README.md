@@ -117,7 +117,6 @@ eXist-db(java)
 
 Apache Geode (java)
 
-Redis(c)
 
 Apache Ignite(java)
 
@@ -178,3 +177,9 @@ postgres-operator
 
 https://github.com/operator-framework/awesome-operators
 
+
+## distributed memory cache
+
+Memcached(c)
+
+Redis(c)
