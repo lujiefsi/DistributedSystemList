@@ -172,6 +172,8 @@ Redis(c)
 
 Apache Calcite(java)
 
+Apache Kudu(c++)
+ 
 Hive (java)
 
 Apache Drill(java)
