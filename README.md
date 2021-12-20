@@ -113,6 +113,8 @@ Debezium(java, database change capture)
 
 eXist-db(java)
 
+Voldemort(java)
+
 ## Distributed in-memory Database
 
 Apache Geode (java)
