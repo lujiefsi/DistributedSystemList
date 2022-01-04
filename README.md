@@ -72,7 +72,7 @@ Apache Pulsar(java)
 
 Mapreduce(java)
 
-apache gobblin
+apache gobblin(java)
 
 Spark(scala)
 
