@@ -196,4 +196,8 @@ Sparksql
 
 Druid
 
-Clickhouse 
+Clickhouse
+
+# Distributed log
+
+Apache BookKeeper
