@@ -66,7 +66,7 @@ Kafka(java)
 
 RocketMQ(java)
 
-Apache Pulsar
+Apache Pulsar(java)
 
 ## Distributed Batch Processing Frameworks
 
