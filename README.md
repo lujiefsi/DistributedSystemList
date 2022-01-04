@@ -68,6 +68,8 @@ RocketMQ(java)
 
 Apache Pulsar(java)
 
+jeromq(java)
+
 ## Distributed Batch Processing Frameworks
 
 Mapreduce(java)
