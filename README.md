@@ -117,6 +117,8 @@ eXist-db(java)
 
 Voldemort(java)
 
+CockroachDB(golang)
+
 ## Distributed in-memory Database
 
 Apache Geode (java)
