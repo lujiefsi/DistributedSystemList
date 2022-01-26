@@ -14,7 +14,7 @@ lakefs(go)
 
 MinIO(go)
 
-openIO(c and python
+openIO(c and python)
 
 LeoFS(Erlang)
 
