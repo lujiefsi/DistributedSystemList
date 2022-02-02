@@ -201,6 +201,8 @@ Sparksql
 
 Druid
 
+FiloDB
+
 Clickhouse
 
 # Distributed log
@@ -213,6 +215,9 @@ ambari(java)
 
 Chukwa(java)
 
+## Distributed Time Series Database
+
+apache iotdb(java)
 
 ## Distributed machining learning 
 
