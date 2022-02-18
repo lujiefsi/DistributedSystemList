@@ -52,7 +52,7 @@ Tahoe-LAFS(python)
 
 XtreemFS(java and c++)
 
-
+seaweedfs(golang)
 
 ## Distributed Message Quque
 
