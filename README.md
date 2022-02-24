@@ -105,6 +105,8 @@ openstack(pythob)
 
 HBAse(java)
 
+Accumulo(java)
+
 Cassandra(java)
 
 Apache Phoenix(java)
