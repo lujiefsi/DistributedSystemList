@@ -205,6 +205,8 @@ FiloDB
 
 Clickhouse
 
+sqoop
+
 # Distributed log
 
 Apache BookKeeper
