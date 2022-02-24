@@ -229,3 +229,5 @@ mathout(java)
 
 ## distributed log collection
 flume
+scribe
+Chukwa
