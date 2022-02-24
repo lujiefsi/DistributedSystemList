@@ -225,3 +225,5 @@ apache iotdb(java)
 
 mathout(java)
 
+## distributed log collection
+flume
