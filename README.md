@@ -233,3 +233,7 @@ mathout(java)
 flume
 scribe
 Chukwa
+
+## distributed operator for k8s
+
+
