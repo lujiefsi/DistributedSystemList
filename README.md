@@ -179,6 +179,8 @@ Redis(c)
 
 # OLAP
 
+ClickHouse
+
 Apache Calcite(java)
 
 Apache Kudu(c++)
@@ -230,9 +232,14 @@ apache iotdb(java)
 mathout(java)
 
 ## distributed log collection
+
 flume
+
 scribe
+
 Chukwa
+
+Loggie
 
 ## distributed operator for k8s
 
