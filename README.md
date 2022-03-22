@@ -213,6 +213,8 @@ Clickhouse
 
 sqoop
 
+gpdb
+
 # Distributed log
 
 Apache BookKeeper
