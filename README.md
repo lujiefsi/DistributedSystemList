@@ -179,6 +179,8 @@ Redis(c)
 
 # OLAP
 
+hawq
+
 ClickHouse
 
 Apache Calcite(java)
