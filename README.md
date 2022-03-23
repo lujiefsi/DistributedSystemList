@@ -248,3 +248,7 @@ Loggie
 ## distributed operator for k8s
 
 https://operatorframework.io/
+
+## new SQL
+
+https://en.wikipedia.org/wiki/NewSQL
