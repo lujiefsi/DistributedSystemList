@@ -215,7 +215,7 @@ sqoop
 
 gpdb
 
-kyuubi
+kyuubi（scala）
 
 # Distributed log
 
