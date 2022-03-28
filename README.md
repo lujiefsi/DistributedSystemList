@@ -215,6 +215,8 @@ sqoop
 
 gpdb
 
+kyuubi
+
 # Distributed log
 
 Apache BookKeeper
