@@ -87,6 +87,8 @@ Flink(java)
 
 Samza(java)
 
+Apache Tez(java)
+
 ## Distributed Resouce Management Frameworks
 
 YARN(java)
@@ -129,8 +131,6 @@ Apache Geode (java)
 Apache Ignite(java)
 
 Chronicle Map
-
-
 
 
 
