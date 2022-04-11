@@ -130,7 +130,7 @@ Apache Geode (java)
 
 Apache Ignite(java)
 
-Chronicle Map
+Chronicle Map (java)
 
 
 
@@ -138,10 +138,9 @@ Chronicle Map
 
 Leaf(java)
 
-
 sonyflake(go)
 
-Snowflake
+Snowflake(golang) (sony)
 
 ## distributed coordination framework
 
@@ -158,15 +157,15 @@ Eureka(java)
 ## distributed Operator
 
 
-strimzi-kafka-operator
+strimzi-kafka-operator(go)
 
-sprak-on-k8s-operator
+sprak-on-k8s-operator(go)
 
-etcd-operator
+etcd-operator(go)
 
-prometheus-operator
+prometheus-operator(go)
 
-postgres-operator
+postgres-operator(go)
 
 https://github.com/operator-framework/awesome-operators
 
@@ -179,9 +178,9 @@ Redis(c)
 
 # OLAP
 
-hawq
+hawq(c)
 
-ClickHouse
+ClickHouse(c++)
 
 Apache Calcite(java)
 
@@ -193,7 +192,7 @@ Apache Drill(java)
 
 trino(java)
 
-ApAche kylin(java)
+Apache kylin(java)
 
 Presto(java)
 
@@ -203,23 +202,23 @@ pig (java)
 
 ADB-MySQL(c)
 
-Sparksql
+Sparksql(scala)
 
-Druid
+Druid (java)
 
-FiloDB
+FiloDB(scala)
 
-Clickhouse
+Clickhouse(c++)
 
-sqoop
+sqoop(java)
 
-gpdb
+gpdb(c)
 
 kyuubi（scala）
 
 # Distributed log
 
-Apache BookKeeper
+Apache BookKeeper(java)
 
 # Distributed monitor
 
@@ -227,7 +226,7 @@ ambari(java)
 
 Chukwa(java)
 
-prometheus
+prometheus(golang)
 
 ## Distributed Time Series Database
 
@@ -239,13 +238,13 @@ mathout(java)
 
 ## distributed log collection
 
-flume
+flume(java)
 
-scribe
+scribe(java)
 
-Chukwa
+Chukwa(java)
 
-Loggie
+Loggie(go)
 
 ## distributed operator for k8s
 
