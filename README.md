@@ -198,13 +198,11 @@ Apache kylin(java)
 
 Presto(java)
 
-impala(c++)
+impala(c++, MPP)
 
 pig (java)
 
 ADB-MySQL(c)
-
-Sparksql(scala)
 
 Druid (java)
 
