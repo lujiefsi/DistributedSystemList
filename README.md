@@ -178,6 +178,8 @@ Redis(c)
 
 # OLAP
 
+https://zhuanlan.zhihu.com/p/56782207
+
 hawq(c)
 
 ClickHouse(c++)
