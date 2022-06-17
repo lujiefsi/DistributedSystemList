@@ -196,9 +196,9 @@ trino(java)
 
 Apache kylin(java)
 
-Presto(java)
+Presto(java, MPP)
 
-impala(c++, MPP)
+impala(c++)
 
 pig (java)
 
