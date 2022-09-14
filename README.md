@@ -21,6 +21,7 @@ LeoFS(Erlang)
 ## Distributed File System
 also see https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
 
+also see the rank https://ossinsight.io/collections/distributed-file-storage/?utm_source=wechat_session&utm_medium=social&utm_oi=35251401261056
 
 HDFS(java)
 
