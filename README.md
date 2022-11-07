@@ -71,6 +71,7 @@ RocketMQ(java)
 Apache Pulsar(java)
 
 jeromq(java)
+https://github.com/qunarcorp/qmq（java）
 
 ## Distributed Batch Processing Frameworks
 
